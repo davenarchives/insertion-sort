@@ -11,7 +11,7 @@ A user-input insertion sort in ascending and descending order
 
 <h3>How it Works: </h3>
 
-<img align="right" alt="Coding" width="550" src="https://github.com/davenarchives/insertion-sort/assets/160004612/dcf0e975-2d6f-46fc-8a6b-fa3988bf84ee">
+<img align="right" alt="Coding" width="500" src="https://github.com/davenarchives/insertion-sort/assets/160004612/dcf0e975-2d6f-46fc-8a6b-fa3988bf84ee">
 
   Unsorted Array: [55, -2, 34, 10, 0, 2, -5, 12]
 - Start with the first element (55) as sorted
